@@ -1,13 +1,13 @@
-# Tic Tac Toe Game
-Tic Tac Toe Game is a simple web-based implementation of the classic two-player game. It offers two modes of play: Play with Friend and Play with Computer. Players can compete against each other or against an AI opponent.
+# Stopwatch
+The stopwatch includes essential functions such as start, pause, reset, and lap recording, enabling users to track multiple time segments. Additionally, it offers themes to switch between light and dark modes, enhancing usability and comfort in different environments.
 
-Key features of game include:
+Key features of stopwatch include:
 
-1)Play with Friend: Two players can enter their names and take turns to play on the same device.
+1) Start: Begin the stopwatch timer.
 
-2)Play with Computer: Single-player mode where the player competes against a computer AI.
+2) Pause: Temporarily stop the stopwatch timer.
+3) Reset: Reset the stopwatch timer to zero.
+4) Lap: Record lap times while the stopwatch is running.
+5) Modes: Switch between light and dark modes for optimal viewing comfort.
 
-3)Dynamic Scoreboard: Real-time scoreboard updates to track wins and draws.
-
-4)Restart and Exit: Option to restart the game or exit the game entirely.
 
