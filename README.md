@@ -31,11 +31,7 @@ The stopwatch includes essential functions such as start, pause, reset, and lap 
     ```
 
     Alternatively, you can directly open the file in your preferred web browser by double-clicking it.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
+   
 ## Acknowledgments
 
 - Inspired by practical stopwatch applications for time tracking.
